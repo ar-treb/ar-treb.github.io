@@ -85,27 +85,18 @@ author:
   bio              : "Early career environmental researcher focusing on global-change"
   location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : 
-  email            : "artur.trebski.19@ucl.ac.uk
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "artur.trebski.19@ucl.ac.uk"
+  researchgate     : 
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "ar-treb"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/artur-trebski-4b66b5172/"
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
