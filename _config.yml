@@ -8,8 +8,8 @@
 
 
 # Site Settings
-#remote_theme: "mmistakes/minimal-mistakes"
-theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+#theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
