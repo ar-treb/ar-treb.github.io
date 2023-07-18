@@ -124,7 +124,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .jekyll-assets-cache
+ # - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
   - Capfile
@@ -133,7 +133,7 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets/js/_main.js
+  #- assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
   - config
