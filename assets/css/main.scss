@@ -11,6 +11,8 @@
 */
 @import "minimal-mistakes/skins/dirt"; // skin
 @import "minimal-mistakes/skins/default"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | dirt: 'dirt' }}"; // skin
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
