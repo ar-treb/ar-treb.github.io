@@ -19,7 +19,7 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 # gem "jekyll"
 
 gem "wdm", "~> 4.24.0" if Gem.win_platform?
-
+$ bundle update
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
