@@ -21,3 +21,5 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Profe
+ 
+<object data="../assets/GitHubCV.pdf" width="1000" height="1000" type='application/pdf'></object>
