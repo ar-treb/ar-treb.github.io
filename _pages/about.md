@@ -21,7 +21,22 @@ In July 2023, I presented the project during the poster session at the **BES Mac
 ![Poster Session](/images/poster_sess.jpg)
 
 ## Meta-meta-analysis research placement at London NHM
+Last summer I was interning at London Natural History Museum as a part of the [SSCP DTP REP](https://www.imperial.ac.uk/grantham/education/science-and-solutions-for-a-changing-planet-dtp/studentship-opportunities/). Under the supervision of Prof Andy Purvis, I was researching the impacts of organic agriculture on biodiversity using novel meta-analytic methods. I was a member of an amazing Biodiversity Futures Lab, and had an opportunity to also contribute to a science communication project, which you can see below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yFN21MYiZ8A?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Meta-meta-analysis research placement at London NHM
 
 Last summer I was interning at London Natural History Museum as a part of the [SSCP DTP REP](https://www.imperial.ac.uk/grantham/education/science-and-solutions-for-a-changing-planet-dtp/studentship-opportunities/). Under the supervision of Prof Andy Purvis, I was researching the impacts of organic agriculture on biodiversity using novel meta-analytic methods. I was a member of an amazing Biodiversity Futures Lab, and had an opportunity to also contribute to a science communication project, which you can see below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yFN21MYiZ8A?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## UCL Science Communication for Biologists Student Conference
+
+In January 2023 I participated in a student-led science communication conferecence at ZSL Institute of Zoology. I presented the topic of "The Uncertain Future of Antarctica’s Biodiversity" and I discussed the power and limitations of new technologies in studying Antarctica's biodiversity.
+The slides from my talk are available here.
+
+
+
+
+
