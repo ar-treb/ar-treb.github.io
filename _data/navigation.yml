@@ -5,6 +5,9 @@ main:
  #   url: /portfolio/
   - title: "Projects"
     url: /projects/
+
+- title: "About"
+    url: 
  
   - title: "CV"
     url: /cv/
