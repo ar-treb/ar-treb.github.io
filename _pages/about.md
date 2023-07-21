@@ -11,7 +11,7 @@ redirect_from:
 I'm Artur, a recent First Class Honours **MSci Natural Sciences graduate** from [University College London](https://www.ucl.ac.uk), currently based in London. My main interests include environmental research, species conservation, science communication, global change and computational methods. I am now seeking a new role in which I can utilise my interdisciplinary background, attention to detail and analytical skills to tackle environmental challenges and foster positive change.
 
 
-# Recent activites
+# Recent activities
 ## Master's project at UCL CBER
 
 Between September 2022 and May 2023, I was conducting my Master's research project titled **"*Potential decline in the distribution of the agricultural pest Nezara viridula in the macadamia-growing region of South Africa".*** I utilised Species Distribution Models and Bayesian networks to predict the future distribution of an agricultural pest in South Africa under climate change. I was working under the supervision of Prof Richard Pearson, and I am currently preparing a manuscript for publication.
@@ -27,7 +27,7 @@ Last summer I was interning at London Natural History Museum as a part of the [S
 
 ## UCL Science Communication for Biologists Student Conference
 
-In January 2023 I participated in a student-led science communication conferecence at ZSL Institute of Zoology. I presented the topic of "The Uncertain Future of Antarctica’s Biodiversity" and I discussed the power and limitations of new technologies in studying Antarctica's biodiversity.
+In January 2023 I participated in a student-led science communication conference at ZSL Institute of Zoology. I presented the topic of "The Uncertain Future of Antarctica’s Biodiversity" and I discussed the power and limitations of new technologies in studying Antarctica's biodiversity.
 The slides from my talk are available [here](https://ar-treb.github.io/projects/Antarctica/).
 
 ![Conference Talk](/images/conf_picture.jpg)
