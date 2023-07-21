@@ -30,7 +30,7 @@ Last summer I was interning at London Natural History Museum as a part of the [S
 In January 2023 I participated in a student-led science communication conferecence at ZSL Institute of Zoology. I presented the topic of "The Uncertain Future of Antarctica’s Biodiversity" and I discussed the power and limitations of new technologies in studying Antarctica's biodiversity.
 The slides from my talk are available [here](https://ar-treb.github.io/projects/Antarctica/).
 
-
+![Conference Talk](/images/conf_picture.jpg)
 
 
 
