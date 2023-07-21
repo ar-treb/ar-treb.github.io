@@ -10,7 +10,6 @@ redirect_from:
 
 I'm Artur, a recent First Class Honours **MSci Natural Sciences graduate** from [University College London](https://www.ucl.ac.uk), currently based in London. My main interests include environmental research, species conservation, applied ecology, global change and computational methods. I am now seeking a new role in which I can utilise my interdisciplinary background, attention to detail and analytical skills to tackle environmental challenges and foster positive change.
 
-------------------------------------------------------------------------
 
 ## Recent projects
 
