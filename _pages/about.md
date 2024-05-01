@@ -10,12 +10,13 @@ redirect_from:
 
 I'm Artur, a recent First Class Honours **MSci Natural Sciences graduate** from [University College London](https://www.ucl.ac.uk), currently based in London. My main interests include environmental research, species conservation, science communication, global change and computational methods. I am now seeking a new role in which I can utilise my interdisciplinary background, attention to detail and analytical skills to tackle environmental challenges and foster positive change.
 
+# Current role: Research Assistant at London NHM
 
 # Recent activities
 
 ## Data Curator at RBG, Kew (Oct 2023 - Apr 2024)
 
-I spent 6 months at Royal Botanic Gardens, Kew where I was working as a Data Curator. I contributed to the **"*NutriDiv"*** project led by Dr Samuel Pironon, mainly focusing on collecting and standardizing plant nutrition data from Food Composition Databases. My input provides a base for ML modelling aiming to predict nutrition across global diversity of edible plants.
+I spent 6 months at Royal Botanic Gardens, Kew where I was working as a Data Curator. I contributed to the **"*NutriDiv"*** project led by Dr Samuel Pironon, mainly focusing on collecting and standardizing plant nutrition data from Food Composition Databases. My input provides a base for ML modelling pipeline aiming to predict nutrition across global diversity of edible plants.
 
 ## Master's project at UCL CBER
 
