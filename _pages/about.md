@@ -18,7 +18,7 @@ I'm Artur, a recent First Class Honours **MSci Natural Sciences graduate** from 
 
 I spent 6 months at Royal Botanic Gardens, Kew where I was working as a Data Curator. I contributed to the **"*NutriDiv"*** project led by Dr Samuel Pironon, mainly focusing on collecting and standardizing plant nutrition data from Food Composition Databases. My input provides a base for ML modelling pipeline aiming to predict nutrition across global diversity of edible plants.
 
-![Kew](/images/kew_picture.jpg)
+![Kew](/images/kew_pic.jpg)
 
 ## Master's project at UCL CBER
 
