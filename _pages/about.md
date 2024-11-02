@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Artur, a recent First Class Honours **MSci Natural Sciences graduate** from [University College London](https://www.ucl.ac.uk), currently based in London. My main interests include environmental research, species conservation, science communication, global change and computational methods. I am now seeking a new role in which I can utilise my interdisciplinary background, attention to detail and analytical skills to tackle environmental challenges and foster positive change.
+I'm Artur, a computational ecologist and data analyst based in London. I am currently working at Natural History Museum, and previously I spent time in Kew Gardens and UCL. My main interests include environmental research, species conservation, global change and computational methods. 
 
-# Current role: Research Assistant at London NHM
+## Current role: Research Assistant at London NHM
 
-# Recent activities
+As a research assistant in the Biodiversity & Health research group, I investigate the impacts of global change on epidemiology of zoonotic diseases. I am developing a LLM-powered [LangGraph](https://www.langchain.com/langgraph)-based application allowing manipulating, querying and analysing epidemiological data and studies through a natural language interface. I also help with preparation of manuscripts for publications and development of scientific output across the research group. 
+
+## Recent activities
 
 ## Data Curator at RBG, Kew (Oct 2023 - Apr 2024)
 
