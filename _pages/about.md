@@ -14,6 +14,9 @@ I'm Artur, a computational ecologist and data analyst based in London. I am curr
 
 As a research assistant in the Biodiversity & Health research group, I investigate the impacts of global change on epidemiology of zoonotic diseases. I am developing a LLM-powered [LangGraph](https://www.langchain.com/langgraph)-based application allowing manipulating, querying and analysing epidemiological data and studies through a natural language interface. I also help with preparation of manuscripts for publications and development of scientific output across the research group. 
 
+Outputs include:
+* Trebski, A., Gourlay, L., Gibb, R., Imirzian, N. and Redding, D. W. (2024). ‘Sensitivity to climate change is widespread across zoonotic diseases’. [doi: 10.1101/2024.11.18.24317483.](https://doi.org/10.1101/2024.11.18.24317483) [Pre-print]
+
 ## Recent activities
 
 ## Data Curator at RBG, Kew (Oct 2023 - Apr 2024)
