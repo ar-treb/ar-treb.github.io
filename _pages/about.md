@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm Artur, a computational ecologist and data analyst based in London. I am currently working at Natural History Museum, and previously I spent time in Kew Gardens and UCL. My main interests include environmental research, species conservation, global change and computational methods. 
-
+123test
 ## Current role: Research Assistant at London NHM
 
 As a research assistant in the Biodiversity & Health research group, I investigate the impacts of global change on epidemiology of zoonotic diseases. I am developing a LLM-powered [LangGraph](https://www.langchain.com/langgraph)-based application allowing manipulating, querying and analysing epidemiological data and studies through a natural language interface. I also help with preparation of manuscripts for publications and development of scientific output across the research group. 
